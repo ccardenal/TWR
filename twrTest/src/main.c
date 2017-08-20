@@ -36,7 +36,7 @@ int main(void)
     /* TODO - Add your application code here */
     while (1)
     {
-        if (i>700) i++;
+        if (i>200) i++;
     }
 
     return 0;
