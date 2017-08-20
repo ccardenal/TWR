@@ -31,7 +31,7 @@ SOFTWARE.
 
 int main(void)
 {
-    uint32_t i = 0;
+    int i = 0;
 
     /* TODO - Add your application code here */
     while (1)
